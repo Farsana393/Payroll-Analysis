@@ -5,7 +5,7 @@ A Power BI payroll report for 130 employees covering cost, overtime and departme
 Give finance and HR one place to track payroll cost, overtime and department spend.
 #What I built
 A power bi report with an overview, a department payroll statement, an account summary and an employee detail table, with a department filter.
-#Key findings
+# Key findings
 Gross payroll was 168.86K and net payroll 154.19K, up 2.71K from the previous month.
 IT had the highest gross payroll (39.52K) and the most overtime.
 Operations had the highest average cost per employee (1,553).
